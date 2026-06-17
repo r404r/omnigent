@@ -54,6 +54,10 @@ Omnigent lets you:
 
 ## Quick start
 
+New to terminals or AI agent tools? Start with the
+[Chinese zero-background guide](docs/BEGINNER_GUIDE_ZH.md), which walks through
+installation, model setup, first use, and common troubleshooting step by step.
+
 ### 1. Install
 
 One command installs Omnigent and everything it needs:
